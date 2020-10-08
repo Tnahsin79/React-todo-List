@@ -1,0 +1,11 @@
+h1{
+    color: red;
+}
+th,td{
+    border: 1px solid black;
+    text-align: center;
+    width: 8vw;
+}
+table{
+    margin-top: 1vw;
+}
